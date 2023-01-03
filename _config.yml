@@ -7,7 +7,8 @@ first_name: Priya Gole
 middle_name: 
 last_name:
 email: priyagole24@gmail.com
-description: Junior UG, CSE, IITK
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  My personal website.
 footer_text:
 keywords: 
 
