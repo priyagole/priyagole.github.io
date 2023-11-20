@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! I am Priya, a third-year undergraduate in the Department of Computer Science and Engineering at IIT Kanpur. I have a wide range of ever-evolving interests. I love learning about new tech and enjoy reading about random stuff here and there.
+Hi there! I am Priya, a fourth-year undergraduate in the Department of Computer Science and Engineering at IIT Kanpur. I have a wide range of ever-evolving interests. I love learning about new tech and enjoy reading about random stuff here and there.
 
 Currently, I am interested in Data Science, primarily in Machine Learning, Deep Learning, and I am exploring NLP. Also, I find Mathematics fascinating, particularly Number Theory and its real-world applications in Cryptography.  
 
